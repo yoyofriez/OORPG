@@ -1,3 +1,14 @@
+/* @pjs preload="Class Selection.jpg"; */
+/* @pjs preload="grass.jpg"; */
+/* @pjs preload="Upgrade.jpg"; */
+/* @pjs preload="Paladin.png"; */
+/* @pjs preload="Paladin Attack.png"; */
+/* @pjs preload="Mage.png"; */
+/* @pjs preload="Mage Attack.png"; */
+/* @pjs preload="Elven.png"; */
+/* @pjs preload="Elven Attack.png"; */
+/* @pjs preload="Ork.png"; */
+
 PImage img, img1, enemy;
 
 String playerClass;
